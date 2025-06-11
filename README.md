@@ -2,6 +2,10 @@
 
 This project is a 3D interactive solar system simulation built using [Three.js](https://threejs.org/). It is optimized for both desktop and mobile devices, and includes features like tooltips, orbit controls, light/dark mode, and customizable planet speeds.
 
+# Live Preview
+
+https://solar-system-git-main-divya-chhabraas.vercel.app/
+
 ## How to Run
 
 1. Clone or download the project to your local machine.
