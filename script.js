@@ -376,7 +376,7 @@ window.addEventListener('resize', () => {
     
     // Adjust controls for different screen sizes
     if (window.innerWidth <= 768) {
-        speedControls.style.maxHeight = '30vh';
+        speedControls.style.maxHeight = '40vh';
     } else {
         speedControls.style.position = 'fixed';
         speedControls.style.top = '10px';
